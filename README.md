@@ -64,7 +64,7 @@ Text Analysis → Reviewer Profiling → Trust Score Model
 - **Machine Learning:** Random Forest
 - **Visualization:** Streamlit, Plotly
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/devarshganatra/trust-score-engine)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/devarshganatra/trust-score-engine-clean)
 
 ---
 
@@ -85,7 +85,7 @@ An intuitive visualization tool that transforms CSV/JSON datasets into interacti
 - **Backend:** FastAPI, SQLite
 - **Styling:** Tailwind CSS
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/devarshganatra/ScientiFlow)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/devarshganatra/SF)
 
 ---
 
