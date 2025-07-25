@@ -177,8 +177,6 @@ current_focus = {
 
 <div align="center">
 
-### ⭐ "*Building the future, one algorithm at a time*" ⭐
 
-**Thanks for visiting my profile! Don't forget to star ⭐ repositories you find interesting!**
 
 </div>
