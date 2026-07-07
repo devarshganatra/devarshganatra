@@ -6,20 +6,16 @@
 
 ---
 
-```json
-{
-  "name": "Devarsh Ganatra",
-  "role": "Backend & Distributed Systems Engineer",
-  "location": "VIT Vellore → Ahmedabad, Gujarat",
-  "education": "B.Tech CSE – Information Security | CGPA 9.36",
-  "currently_obsessed_with": [
-    "fault-tolerant async pipelines",
-    "semantic threat intelligence",
-    "LLM behavioral drift detection"
-  ],
-  "philosophy": "Systems fail. Build them to survive it anyway.",
-  "open_to": ["SDE roles", "backend internships", "distributed systems research"]
-}
+```
+  name                →  Devarsh Ganatra
+  role                →  Backend & Distributed Systems Engineer
+  location            →  VIT Vellore → Ahmedabad, Gujarat
+  education           →  B.Tech CSE – Information Security  |  CGPA 9.36
+  currently into      →  fault-tolerant async pipelines
+                         semantic threat intelligence
+                         LLM behavioral drift detection
+  philosophy          →  Systems fail. Build them to survive it anyway.
+  open to             →  SDE roles  ·  backend internships  ·  distributed systems research
 ```
 
 ---
@@ -36,7 +32,7 @@
 
 ---
 
-##  tech stack
+## ⚡ tech stack
 
 <h4 align="center">Languages</h4>
 <p align="center">
@@ -57,17 +53,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,postman,linux" />
 </p>
-
----
-
-## github stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devarshganatra&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=fca5a5&icon_color=f87171&text_color=c9d1d9&ring_color=ef4444&include_all_commits=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarshganatra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=fca5a5&text_color=c9d1d9&langs_count=6" height="160" />
-
-</div>
 
 ---
 
