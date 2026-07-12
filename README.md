@@ -64,7 +64,7 @@
 &nbsp;&nbsp;
 <a href="mailto:devarsh.ganatra12178@gmail.com"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" width="48"/></a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/u/user4903Gx/"><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="48"/></a>
+
 
 </div>
 
